@@ -8,3 +8,5 @@ Contains my submission for https://gitcoin.co/hackathon/nervos
 [Gitcoin: 2) Deploy a Simple Ethereum Smart Contract on Polyjuice](./task-2)
 
 [Gitcoin: 3) Issue a Smart Contract Call to the Deployed Smart Contract](./task-3)
+
+[Gitcoin: 4) Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](./task-4)

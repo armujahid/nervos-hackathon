@@ -12,3 +12,5 @@ Contains my submission for https://gitcoin.co/hackathon/nervos
 [Gitcoin: 4) Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](./task-4)
 
 [Gitcoin: 5) Deploy the ERC20 Proxy Contract for the Deposited SUDT](./task-5)
+
+[Gitcoin: 6) Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice](./task-6)
